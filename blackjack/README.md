@@ -27,7 +27,9 @@ Ce projet est un **mini-jeu de Blackjack** développé en Python pour tester et 
 
 ### 1. Lancer le jeu
 
-En faisant python main.py
+```bash
+python main.py
+```
 Lorsque le script est exécuté, tu seras invité à démarrer une partie de Blackjack :
 
 ```bash
